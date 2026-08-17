@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+.env.*
+
+# Node
+node_modules/
+npm-debug.log*
+dist/
+
+# WordPress uploads
+wordpress/wp-content/uploads/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
